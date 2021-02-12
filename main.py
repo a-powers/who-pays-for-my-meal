@@ -1,5 +1,4 @@
 names_string = input("Give me everybody's names, separated by a comma. ")
-#create a list of names
 names = names_string.split(", ")
 
 import random
