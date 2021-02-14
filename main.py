@@ -6,4 +6,4 @@ import random
 random_position = random.randrange(0, len(names))
 picked_name = names[random_position]
 
-print(f"The person who pays for the meal is {picked_name}.")
+print(f"The person who pays for all the meals is... {picked_name}.")
